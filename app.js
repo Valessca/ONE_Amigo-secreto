@@ -1,28 +1,3 @@
-/** 
- * MACRO:
- * -- Capturar nome do input e adicionar no array de amigos
- * -- Sortear um amigo e exibir na tela;
- */
-
-/**
- * História 1: Adicionar amigos
- * -- Capturar nome do input e adicionar no array de amigos
- * -- Validar se o input está vazio e exibir mensagem de erro caso esteja
- * -- Limpar input após adicionar amigo
- */
-
-/**
- * Historia 2: Exibir lista de amigos inseridos
- * -- Deverá ser exibido uma lista com os amigos inseridos
- * anteriormente abaixo do campo input (Adicionar amigos);
- */
-
-/**
- * História 2: Sortear amigo
- * -- Sortear um amigo e exibir e exibir abaixo da lista de amigos inserida;
- * -- Validar se existe amigos para sortear;
- */
-
 const inputAmigo = document.querySelector('#amigo');
 let amigos = [];
 
